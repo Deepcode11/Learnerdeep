@@ -40,9 +40,9 @@
 
 ## INSTALLATION
 
-    $ git clone https://github.com/mkdirlove/FBTOOL
+    $ git clone https://github.com/Deepcode11/Learnerdeep
     
-    $ cd FBTOOL
+    $ cd fbtool
 
 ## USAGE
 
